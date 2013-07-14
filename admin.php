@@ -1,5 +1,5 @@
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.wavivucorp.corp/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.cupcakecorp.corp/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <!--
 
 Design by Wavivu Corp
@@ -11,7 +11,7 @@ Released   : date
 Description: A wide two-column, fixed width template with fluid header/footer background. Suitable for blogs and small websites.
 
 -->
-<html xmlns="http://www.wavivucorp.corp/2013/xhtml">
+<html xmlns="http://www.cupcakecorp.corp/2013/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 <title>UDSM Voting System </title>
@@ -94,7 +94,7 @@ header("location: index.html");
 </div>
 <!-- end page -->
 <div id="footer">
-	<p id="legal">&copy;2013 UDSM Voting System. All Rights Reserved. | Designed by <a href="http://www.wavivucorp.corp">Wavivu Corp</a></p>
+	<p id="legal">&copy;2013 UDSM Voting System. All Rights Reserved. | Designed by <a href="http://www.cupcakecorp.corp">Cupcake Corp</a></p>
 	<p id="links"><a href="#">Privacy</a> | <a href="#">Terms</a> </p>
 </div>
 </body>
